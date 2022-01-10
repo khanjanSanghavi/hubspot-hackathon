@@ -1,0 +1,12 @@
+defaultPortal: faridHubspot
+portals:
+  - name: faridHubspot
+    portalId: 21233527
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          COuZ8JvkLxIIAA0AAAAAAAwY9_6PCiDX_qwNKO7pDDIUkjiqGo5ZmWNh_5qS91mB0tHKUgE6KAAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcAAAAAPAAAAAAAAGBCFCfcwNoeQ8PeJRO-m90q9smkshciSgNuYTFSAFoA
+        expiresAt: '2022-01-10T10:15:10.324Z'
+    personalAccessKey: >-
+      CiQyNjFlNWI2ZS0wZDA1LTQ2ODgtYjg3YS1kYjk5NzdlMDgxOTAQ9_6PChjX_qwNKhkABeaRgj6fjWkwn7T5KzZjJBUDvr7W8ItsSgNuYTE
